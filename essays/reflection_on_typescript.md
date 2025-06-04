@@ -9,7 +9,7 @@ labels:
   - Software Engineering
 ---
 
-# <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
+
 
   TypeScript, a language built on top of JavaScript, brings structured and type-safe features to it, resulting in substantial benefits to both novice and veteran programmers. If you are a person newly introduced to the programming language, you will initially feel the added complexity and the certainty of things working as they should. TypeScript compels you to declare types explicitly and performs checks at compile-time which then curtail the possibilities of runtime errors and promote writing code in a more disciplined way. The organization that is this high is conspicuously not present in JavaScript, where mistakes sometimes present themselves only during execution, often with severe effects.
   In the context of programming languages, TypeScript offers an ideal combination of the two extremes. For instance, statistically, Python is the most flexible language but to use it to its full potential, developers need some additional tools for type enforcement. Java, however, is highly verbose which can impede the speed of development. TypeScript is lucky to be feature-rich like JavaScript with a twist of safety and maintainability from the statically typed programming language. JQuery of ES6-framed cloud features—like arrow functions, modules, etc—adds further value by making the language easier and more up-to-date.
