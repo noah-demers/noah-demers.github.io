@@ -19,4 +19,4 @@ This project implements a real-time facial recognition system using a webcam fee
 
 <hr>
 
-Source: <a href="https://github.com/noah-demers/facial_recognition_model"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/noah-demers/facial_recognition_model"><i class="large github icon "></i>facial_recognition_model</a>
