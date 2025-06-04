@@ -11,44 +11,11 @@ labels:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/difficulty/degree_difficulty.jpg">
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
-
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
-
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
-
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
-
-Here's what I think: the difficult things will always be difficult.
-
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+  TypeScript, a language built on top of JavaScript, brings structured and type-safe features to it, resulting in substantial benefits to both novice and veteran programmers. If you are a person newly introduced to the programming language, you will initially feel the added complexity and the certainty of things working as they should. TypeScript compels you to declare types explicitly and performs checks at compile-time which then curtail the possibilities of runtime errors and promote writing code in a more disciplined way. The organization that is this high is conspicuously not present in JavaScript, where mistakes sometimes present themselves only during execution, often with severe effects.
+  In the context of programming languages, TypeScript offers an ideal combination of the two extremes. For instance, statistically, Python is the most flexible language but to use it to its full potential, developers need some additional tools for type enforcement. Java, however, is highly verbose which can impede the speed of development. TypeScript is lucky to be feature-rich like JavaScript with a twist of safety and maintainability from the statically typed programming language. JQuery of ES6-framed cloud features—like arrow functions, modules, etc—adds further value by making the language easier and more up-to-date.
+  TypeScript is a strong candidate for software engineering from a viewpoint. The static type system enhances the reliability of your code, it also simplifies both the refactoring and collaboration processes in larger teams. Meanwhile, there are some cons related to the imposition on learning as well as the additional syntax; however, the advantages of fewer bugs and of giving the programmer a clear intent with typed code are the most significant ones. The TypeScript tooling infrastructure which includes editors and build systems is excellent and continuously improves thereby making the development process less hectic.
+  TypeScript is a target language that provides much-needed structural safety to JavaScript development. For someone learning the language, the difference from JavaScript to TypeScript is almost immediately detectable. The obligation to denote types and stick to compile-time checks is like a virtue that one often overlooks in JavaScript where errors arise due to being hidden until runtime. This is a kind of the strictness that makes it harder at the time; however, soon you realize that the lack of ambiguity and the reduced mistakes are significant.
+  TypeScript in comparison to the other programming languages is a practical mixture of flexible and strict languages. Python is time-honored for being very lightweight and easy to grasp but it does not ensure type safety unless additional tools are used. Java, on the other side, is overly structured but often appears too verbose to be practical. TypeScript successfully marries the flexibility and familiarity of JavaScript with the dependability of static types. Adding to its virtues, the modern ES6 features like arrows functions and destructuring keep the language useful and trendy in daily work.
+  Software engineering-wise, TypeScript offers solid advantages. A static type system not only leads to more reliable code but it was also refactoring and collaboration easier. While the initial start has an obstacle of wanting to learn more and the syntax increases, the issues of bugs and the clarity of understanding that come with in style of type code far outweigh the problems. The accompanying tools, such as editors and build systems, further contribute to smooth workflow and productivity.
+  The athletic coding angle especially practice WODs which together with the daily prog WODs give the learning another dimension. These are the timed exercises create a sense of urgency that pushes you to quickly apply concepts and solve problems under pressure. The fact that the format can be stressful was a drawback but productivity was high. The challenge and repetition of the WODs facilitate knowledge acquisition while they build up confidence in a solid way. For me, the workout-of-the-day or what I call WODs is a very important part of my learning journey because they help me bridge knowledge with practice and I see my progress in the tangible skills I gain.
+  In conclusion, TypeScript is a good candidate for a person who wants to write code that is more reliable and maintainable. It is structured and flexible, making it powerful and accessible and the breath practice WODs occur in an environment that is dynamic and effective in the mastery of both the language and software engineering discipline. The enduring growth and long-term success in the field are fundamentally supported by the combination of a strong language and an engaging method of learning.
