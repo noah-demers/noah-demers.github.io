@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/facial-recognition-system-concept-face-recognition-d-scanning-face-id-vector-wireframe-concept-biometric-scanning-facial-137534981.webp
 title: "Facial Recognition Model"
 date: 2025
 published: true
