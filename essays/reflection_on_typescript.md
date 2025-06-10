@@ -10,7 +10,7 @@ labels:
 ---
 
 
-
+## Reflecting on TypesSript
   TypeScript, a language built on top of JavaScript, brings structured and type-safe features to it, resulting in substantial benefits to both novice and veteran programmers. If you are a person newly introduced to the programming language, you will initially feel the added complexity and the certainty of things working as they should. TypeScript compels you to declare types explicitly and performs checks at compile-time which then curtail the possibilities of runtime errors and promote writing code in a more disciplined way. The organization that is this high is conspicuously not present in JavaScript, where mistakes sometimes present themselves only during execution, often with severe effects.
   
   
