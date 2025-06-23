@@ -6,9 +6,9 @@ title: "Lint or Lose: Why Coding Standards Matter More Than You Think"
 date: 2015-09-08
 published: true
 labels:
-  - Questions
-  - Answers
-  - StackOverflow
+  - Coding Standards
+  - ESLint Experience
+  - Software Quality
 ---
 
 <img width="300px" class="rounded float-start pe-4" src="https://github.com/noah-demers/noah-demers.github.io/blob/main/img/whycodingstandardsmatter.png">
