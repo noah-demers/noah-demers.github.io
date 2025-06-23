@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
+<img width="300px" class="rounded float-start pe-4" src="https://github.com/noah-demers/noah-demers.github.io/blob/main/img/whycodingstandardsmatter.png">
 
 # The Real Significance of Coding Standards
 
