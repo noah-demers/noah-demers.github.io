@@ -10,8 +10,9 @@ labels:
   - ESLint Experience
   - Software Quality
 ---
+<img width="300px" class="rounded float-start pe-4" src="../img/whycodingstandardsmatter.png">
 
-<img width="300px" class="rounded float-start pe-4" src="https://github.com/noah-demers/noah-demers.github.io/blob/main/img/whycodingstandardsmatter.png">
+
 
 # The Real Significance of Coding Standards
 
