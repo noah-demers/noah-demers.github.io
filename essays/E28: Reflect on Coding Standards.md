@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "Lint or Lose: Why Coding Standards Matter More Than You Think"
 # All dates must be YYYY-MM-DD format!
 date: 2015-09-08
 published: true
