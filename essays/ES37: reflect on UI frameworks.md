@@ -94,7 +94,8 @@ In fewer lines, the result is more visually balanced, responsive by default, and
 ---
 
 ## Screenshot: webpage made with bootstrap:
-<img class="rounded" src="../img/braindead%20recreated%20page%20ss.png">
+<img width="900px" class="rounded" src="../img/braindead%20recreated%20page%20ss.png">
+
 
 
 
